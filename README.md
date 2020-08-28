@@ -6,4 +6,4 @@ Welcome to my GitHub profile - I'm an aspiring penetration tester and data scien
 - 🌱 I’m currently learning Tensorflow
 - 💻 I code in Python, C++ and Java
 - 📫 How to reach me: an email to jinens8@gmail.com works best!
-- 💾 My CV: [Here](https://drive.google.com/file/d/18AGLu_pcfBd9qrovg9MMAJNjaSU1qfqx/view?usp=sharing)!
+- 💾 My CV: [Here](https://drive.google.com/file/d/1fLzyA-kWJdVDLVcHnNfXnS7y068OMb1B/view?usp=sharing)!
