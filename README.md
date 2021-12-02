@@ -1,11 +1,10 @@
-### Hi there 👋 I'm Jinen!
+### Hello 👋🏼 I'm Jinen!
 
-Welcome to my GitHub profile - I'm an aspiring penetration tester and data scientist. I also develop apps!
+I'm a first-year undergraduate @ Purdue Univerity, pursuing a dual-major in Data Science & Cybersecurity.\
+I am an aspiring academic, motivated towards pursuing research in a broad range of disciplines within Computer Vision, NLP & Cybersecurity.
 
-- 🌱 I’m currently learning Tensorflow, PyTorch
-- 💻 I code primarily in Python, C++ and Java
-- 📫 How to reach me: an email to jinens8@gmail.com works best!
-- 💾 [My CV](https://github.com/jinensetpal/jinensetpal/raw/master/Curriculum_Vitae.pdf)
+Metadata:
+- ✉️ jsetpal@purdue.edu
+- 💾 [Résumé](https://github.com/jinensetpal/jinensetpal/raw/master/resume.pdf)
+- 📝 [Research Statement](https://github.com/jinensetpal/jinensetpal/raw/master/research-statement.pdf)
 - 🔑 [PGP](https://github.com/jinensetpal/jinensetpal/raw/master/0x68B934C7-pub.asc)
-
-\* I run automated CI/CD commits, the commit history looks misleading 😝
