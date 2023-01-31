@@ -1,8 +1,8 @@
 ## Hello 👋🏼 I'm Jinen!
 
-I'm a second-year undergraduate @ Purdue University, pursuing a B.Sc in Data Science and work as an ML Engineer at [DagsHub](https://dagshub.com/).
+I'm a second-year undergraduate @ Purdue University, pursuing a B.Sc in Data Science and working as an ML Engineer at [DagsHub](https://dagshub.com/).
 
-My primary research interest is machine interpretability, within the context of Computer Vision and NLP; specifically, building optimization routines based on interpretability techniques.
+My primary research interest is machine interpretability within the context of Computer Vision and NLP; specifically, building optimization routines based on interpretability techniques.
 
 ### Metadata:
 📬 jsetpal@purdue.edu\
