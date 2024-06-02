@@ -1,11 +1,10 @@
-## Hello 👋🏼 I'm Jinen!
+## Hi, I'm Jinen 👋🏼
 
-I'm a third-year undergraduate @ Purdue University, pursuing a B.Sc in Data Science and working as an ML Engineer at [DagsHub](https://dagshub.com/) in the off-time.
-
-My primary research interest lies at the intersection of deep learning theory, robustness and intrinsic interpretability; I aim to study and develop methods for leveraging intuitive biases that enable finding backpropagatable parameters that produce emergent learning behaviors while remaining interpretable by design.
+I'm a Machine Learning Engineer @ DagsHub. Independently, I'm researching aspects of ML theory, intrinsic and mechanistic interpretability, and domain generalization; I aim to study and develop methods for leveraging intuitive biases which enable models to find parameters that produce emergent behaviors while remaining interpretable by design.
 
 ### Metadata:
-📬 jsetpal@purdue.edu\
-💾 [Résumé](https://jinensetpal.github.io/files/resume.pdf)\
-📝 [Research Statement](https://jinensetpal.github.io/files/research-statement.pdf)\
-🔑 [PGP Key](https://jinensetpal.github.io/files/0x68B934C7-pub.asc)
+📬 jinen@setpal.net\
+💾 [Résumé](https://jinen.setpal.net/files/resume.pdf)\
+📜 [CV](https://jinen.setpal.net/files/cv.pdf)\
+📝 [Research Statement](https://jinen.setpal.net/files/research-statement.pdf)\
+🔑 [PGP Key](https://jinen.setpal.net/files/0x68B934C7-pub.asc)
