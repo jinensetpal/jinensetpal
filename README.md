@@ -1,6 +1,8 @@
 ## Hi, I'm Jinen 👋🏼
 
-I'm a Machine Learning Engineer @ DagsHub. Independently, I'm researching aspects of ML theory, intrinsic and mechanistic interpretability, and domain generalization; I aim to study and develop methods for leveraging intuitive biases which enable models to find parameters that produce emergent behaviors while remaining interpretable by design.
+I’m an incoming PhD student advised by [Prof. Chaoyue Liu](https://cliu212.github.io/), researching aspects of optimization theory, intrinsic + mechanistic interpretability, & domain generalization.
+
+I aim to develop methods for leveraging intuitive biases which enable learning parameters that produce emergent behaviors while remaining interpretable by design.
 
 ### Metadata:
 📬 jinen@setpal.net\
