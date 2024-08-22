@@ -1,6 +1,6 @@
 ## Hi, I'm Jinen 👋🏼
 
-I’m an incoming PhD student advised by [Prof. Chaoyue Liu](https://cliu212.github.io/), researching aspects of optimization theory, intrinsic + mechanistic interpretability, & domain generalization.
+I’m a PhD student advised by [Prof. Chaoyue Liu](https://cliu212.github.io/), researching aspects of optimization theory, intrinsic + mechanistic interpretability, & domain generalization.
 
 I aim to develop methods for leveraging intuitive biases which enable learning parameters that produce emergent behaviors while remaining interpretable by design.
 
