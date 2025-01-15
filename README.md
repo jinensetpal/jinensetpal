@@ -6,7 +6,7 @@ I aim to develop methods for leveraging intuitive biases which enable learning p
 
 ### Metadata:
 📬 jinen@setpal.net\
-💾 [Résumé](https://jinen.setpal.net/files/resume.pdf)\
-📜 [CV](https://jinen.setpal.net/files/cv.pdf)\
-📝 [Research Statement](https://jinen.setpal.net/files/research-statement.pdf)\
-🔑 [PGP Key](https://jinen.setpal.net/files/0x68B934C7-pub.asc)
+💾 [Résumé](https://jinen.setpal.net/resume.pdf)\
+📜 [CV](https://jinen.setpal.net/cv.pdf)\
+📝 [Research Statement](https://jinen.setpal.net/research-statement.pdf)\
+🔑 [PGP Key](https://jinen.setpal.net/0x68B934C7-pub.asc)
