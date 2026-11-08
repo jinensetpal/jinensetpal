@@ -1,6 +1,6 @@
 ## Hi, I'm Jinen 👋🏼
 
-I'm a PhD student in the **Probabilistic and Understandable Machine Learning Lab**, advised by [Prof. David Inouye](https://www.davidinouye.com/). My research focuses on optimization, robustness, & domain generalization under broader the umbrella of deep learning.
+I'm a PhD student in the **Probabilistic and Understandable Machine Learning Lab**, advised by [Prof. David Inouye](https://www.davidinouye.com/). My research focuses on optimization, robustness, & domain generalization under the broader umbrella of deep learning.
 
 ### Metadata:
 📬 jinen@setpal.net\
