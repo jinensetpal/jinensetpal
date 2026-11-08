@@ -1,8 +1,6 @@
 ## Hi, I'm Jinen 👋🏼
 
-I’m a PhD student advised by [Prof. Chaoyue Liu](https://cliu212.github.io/), researching aspects of optimization theory, intrinsic interpretability, & domain generalization.
-
-I aim to develop methods for leveraging intuitive biases which enable learning parameters that produce emergent behaviors while remaining interpretable by design.
+I'm a PhD student in the **Probabilistic and Understandable Machine Learning Lab**, advised by [Prof. David Inouye](https://www.davidinouye.com/). My research focuses on optimization, robustness, & domain generalization under broader the umbrella of deep learning.
 
 ### Metadata:
 📬 jinen@setpal.net\
